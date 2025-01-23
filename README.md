@@ -15,5 +15,5 @@ Purpose: I will use this repository to create projects and share them for class 
 
 ##Websites I Recommend
 
-*Google 
-*Safari 
+1.Google 
+2.Safari 
