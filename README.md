@@ -9,11 +9,11 @@ Description: School Account Use
 Purpose: I will use this repository to create projects and share them for class discussions.
 
 
-#About Me 
+# About Me 
 
-##My Interests
+## My Interests
 
-##Websites I Recommend
+## Websites I Recommend
 
-1.Google 
-2.Safari 
+1. Google 
+2. Safari 
