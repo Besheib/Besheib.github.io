@@ -20,5 +20,5 @@ Purpose: I will use this repository to create projects and share them for class 
 
 ## Websites I Recommend
 
-1. [Google] (https://www.google.com) I find google to be beneficial to everyone because you're able to find directions to a place, research questions you may have and find out new things to do. 
-2. [Zoom] (https://www.zoom.com) I find this website and application useful in connecting with peers, teachers, and potential employers through virtual face-to-face chat system that allows personability and provides an avenue for multiple conferences to be conducted at once.   
+1. [Google](https://www.google.com) I find google to be beneficial to everyone because you're able to find directions to a place, research questions you may have and find out new things to do. 
+2. [Zoom](https://www.zoom.com) I find this website and application useful in connecting with peers, teachers, and potential employers through virtual face-to-face chat system that allows personability and provides an avenue for multiple conferences to be conducted at once.   
